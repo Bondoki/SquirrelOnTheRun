@@ -3,7 +3,7 @@ Help the cute little squirrel named "Puschel" to collect all acorns
 to survive the winter with his friend the rainbow lizard "Echsi".  
 It's just for fun and educational purpose. Feel free to modify, improve, and use it - also the assets :)
  
-<img src="https://private-user-images.githubusercontent.com/16195016/360895859-a9b7103f-eb72-4e3a-a711-02c5237ab638.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ0MDk1ODIsIm5iZiI6MTcyNDQwOTI4MiwicGF0aCI6Ii8xNjE5NTAxNi8zNjA4OTU4NTktYTliNzEwM2YtZWI3Mi00ZTNhLWE3MTEtMDJjNTIzN2FiNjM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIzVDEwMzQ0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0NDZiZGZjZjI5M2RmM2Y0ZTg0ZGQ2ZDAwNGU0ODc2MDhlMWQ3YzMxMzcxNTZiNTI3ZDgxNDRlY2U2OTEwYmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.roXn-Yol6uEW7Vi2gj2OdPo3MBtcJ8dMsi34JqGs3c4" width="512">
+<img src="https://github.com/user-attachments/assets/4543d3f1-f393-40e0-ae5a-9956c9f4d21d" width="512">
 
  
 ## Installation
